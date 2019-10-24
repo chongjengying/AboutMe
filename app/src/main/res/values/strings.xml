@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="profile_pic">Profile_Picture</string>
+    <string name="profile_demo">
+        Address: 123,Jalan Besar, Ulu Sungai Ayam, 83100 Batu pahat
+        \n\nEducation
+        \n\nSJK CHENG SIEW, Batu pahat
+        \n\nKolam AIR, BATU PAHAT
+        \n\nTARUC
+        \n\n Student Leader
+        \n\n Work in Small company
+        \n\n LOve to play badminton
+        \n\n exercise
+        \n\n gogo
+        \n\n play
+        \n\n SMK ZHONG HUA
+    </string>
+    <string name="TextView">8sp</string>
+</resources>
